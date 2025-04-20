@@ -136,6 +136,7 @@
             android:id="@+id/textView6"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
             android:padding="12dp"
             android:text="@string/penjelasanonpiece"
             app:layout_constraintBottom_toBottomOf="parent"
